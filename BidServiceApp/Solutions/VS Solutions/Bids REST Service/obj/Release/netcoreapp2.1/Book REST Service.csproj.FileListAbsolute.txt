@@ -1,0 +1,17 @@
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\bin\Release\netcoreapp2.1\Book REST Service.deps.json
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\bin\Release\netcoreapp2.1\Book REST Service.runtimeconfig.json
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\bin\Release\netcoreapp2.1\Book REST Service.runtimeconfig.dev.json
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\bin\Release\netcoreapp2.1\Book REST Service.dll
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\bin\Release\netcoreapp2.1\Book REST Service.pdb
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\bin\Release\netcoreapp2.1\Book Library.dll
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\bin\Release\netcoreapp2.1\Book Library.pdb
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\obj\Release\netcoreapp2.1\Book REST Service.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\obj\Release\netcoreapp2.1\Book REST Service.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\obj\Release\netcoreapp2.1\Book REST Service.RazorAssemblyInfo.cache
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\obj\Release\netcoreapp2.1\Book REST Service.RazorAssemblyInfo.cs
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\obj\Release\netcoreapp2.1\Book REST Service.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\obj\Release\netcoreapp2.1\Book REST Service.AssemblyInfo.cs
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\obj\Release\netcoreapp2.1\Book REST Service.RazorTargetAssemblyInfo.cache
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\obj\Release\netcoreapp2.1\Book REST Service.csproj.CopyComplete
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\obj\Release\netcoreapp2.1\Book REST Service.dll
+C:\Users\Will\Desktop\Unity Projects\Will.Blackney.Assignment\VS Solutions\Book REST Service\obj\Release\netcoreapp2.1\Book REST Service.pdb

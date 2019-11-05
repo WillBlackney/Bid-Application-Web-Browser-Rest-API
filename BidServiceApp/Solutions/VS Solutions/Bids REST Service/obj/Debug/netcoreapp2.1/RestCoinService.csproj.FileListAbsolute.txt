@@ -1,0 +1,50 @@
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cache
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cs
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.AssemblyInfo.cs
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\RestCoinService.deps.json
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\RestCoinService.runtimeconfig.json
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\RestCoinService.runtimeconfig.dev.json
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\RestCoinService.dll
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\RestCoinService.pdb
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.RazorTargetAssemblyInfo.cache
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.dll
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.pdb
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\BidConsoleService.exe
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\BidConsoleService.pdb
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\BidConsoleService.exe.config
+C:\Users\Will\Desktop\Unity Projects\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.csproj.CopyComplete
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\RestCoinService.deps.json
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\RestCoinService.runtimeconfig.json
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\RestCoinService.runtimeconfig.dev.json
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\RestCoinService.dll
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\RestCoinService.pdb
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\BidConsoleService.exe
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\BidConsoleService.pdb
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\bin\Debug\netcoreapp2.1\BidConsoleService.exe.config
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cache
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cs
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.AssemblyInfo.cs
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.RazorTargetAssemblyInfo.cache
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.csproj.CopyComplete
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.dll
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Book REST Service\obj\Debug\netcoreapp2.1\RestCoinService.pdb
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\bin\Debug\netcoreapp2.1\RestCoinService.deps.json
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\bin\Debug\netcoreapp2.1\RestCoinService.runtimeconfig.json
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\bin\Debug\netcoreapp2.1\RestCoinService.runtimeconfig.dev.json
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\bin\Debug\netcoreapp2.1\RestCoinService.dll
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\bin\Debug\netcoreapp2.1\RestCoinService.pdb
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\obj\Debug\netcoreapp2.1\RestCoinService.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\obj\Debug\netcoreapp2.1\RestCoinService.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\obj\Debug\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cache
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\obj\Debug\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cs
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\obj\Debug\netcoreapp2.1\RestCoinService.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\obj\Debug\netcoreapp2.1\RestCoinService.AssemblyInfo.cs
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\obj\Debug\netcoreapp2.1\RestCoinService.RazorTargetAssemblyInfo.cache
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\obj\Debug\netcoreapp2.1\RestCoinService.dll
+C:\Users\Will\Desktop\WBLACKNEY Mock Exam Solutions\Mock Exam Clone\VS Solutions\Bids REST Service\obj\Debug\netcoreapp2.1\RestCoinService.pdb
